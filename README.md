@@ -1,2 +1,2 @@
 # tfcert
-Theory and exercise notebooks for TensorFlow certification exam
+Theory and exercise notebooks for TensorFlow certification exam.
